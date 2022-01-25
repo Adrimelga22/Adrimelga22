@@ -2,7 +2,7 @@
 - 👀 I’m interested in  programation
 - 🌱 I’m currently learning MySQL and C++
 - 💞️ I’m looking to collaborate on IT projects
-- 📫 How to reach me address of e-mail
+- 📫 How to reach me jorgmelgarejo.34@gmail.com
 
 <!---
 Adrimelga22/Adrimelga22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
